@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Людмила Котляр](https://up.htmlacademy.ru/javascript/9/user/42764).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Петров](https://htmlacademy.ru/profile/fyvfyv).
 
 ---
 
